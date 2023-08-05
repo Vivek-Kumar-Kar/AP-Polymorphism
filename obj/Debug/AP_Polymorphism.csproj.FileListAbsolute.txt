@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\AP_Polymorphism\AP_Polymorphism\bin\Debug\AP_Polymorphism.exe.config
+C:\Users\Lenovo\source\repos\AP_Polymorphism\AP_Polymorphism\bin\Debug\AP_Polymorphism.exe
+C:\Users\Lenovo\source\repos\AP_Polymorphism\AP_Polymorphism\bin\Debug\AP_Polymorphism.pdb
+C:\Users\Lenovo\source\repos\AP_Polymorphism\AP_Polymorphism\obj\Debug\AP_Polymorphism.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AP_Polymorphism\AP_Polymorphism\obj\Debug\AP_Polymorphism.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\AP_Polymorphism\AP_Polymorphism\obj\Debug\AP_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AP_Polymorphism\AP_Polymorphism\obj\Debug\AP_Polymorphism.exe
+C:\Users\Lenovo\source\repos\AP_Polymorphism\AP_Polymorphism\obj\Debug\AP_Polymorphism.pdb
